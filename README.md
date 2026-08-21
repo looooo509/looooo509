@@ -1,4 +1,4 @@
-# Hi there, I'm 你的名字
+# Hi there, I'm looooo
 
 ### About me
 - 关注 AI Agent、自动化、数据治理方向
