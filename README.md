@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm 你的名字
 
-<!--
-**looooo509/looooo509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 关注 AI Agent、自动化、数据治理方向
 
-Here are some ideas to get you started:
+### 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E34F26?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![数据分析](https://img.shields.io/badge/数据分析-F2C811?style=for-the-badge&logo=python&logoColor=black)
